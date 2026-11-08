@@ -1,0 +1,11 @@
+{
+  "org": "UKPLab",
+  "repo": "arxiv2026-hierarchical-latent-structures",
+  "versions": [
+    {
+      "commit": "ce7bc085f951685061b41a85fe5550c8df85dc23",
+      "tag": "",
+      "parsed_at": "2026-11-08T09:20:29.033185+00:00"
+    }
+  ]
+}
